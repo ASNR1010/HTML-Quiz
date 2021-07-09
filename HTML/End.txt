@@ -1,0 +1,7 @@
+<html><head>
+<body background="789456">
+<h1><morquee behaviour="alteranate">THANKS FOR VISITING COMPUTER QUIZ</morquee></h1>
+</body></head>
+</html>
+
+25,26th page no sound
