@@ -4,7 +4,7 @@ You can start by clicking [Here](https://asnr1010.github.io/HTML-Quiz/) !!
 
 * This is quiz using **HTML** with recorded voice of questions and contains _images_, _videos_ and ***hyperlinks*** to connect webpages to simulate the environment like the quiz portal used in show ***K.B.C.***
 
-* **Supported Browser** -
+* **Supported Browsers** -
     * Google Chrome 
     * Internet Explorer 9 or later
     * Firefox  
