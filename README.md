@@ -1,4 +1,4 @@
-# HTML Quiz
+# Interactive Quiz
 
 You can start the _Quiz_ by clicking [Here](https://asnr1010.github.io/HTML-Quiz/) !! 
 
